@@ -1,0 +1,31 @@
+
+h1{
+    color:crimson;
+    font-style:italic
+}
+.header{
+display:flex;
+flex-direction: row;
+justify-content: space-between;
+background-color: aliceblue;
+}
+
+.java{
+display: flex;
+flex-wrap: wrap;
+flex-direction: row;
+justify-content: space-evenly;
+background-color: aliceblue;
+
+
+}
+.python{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: aliceblue;
+    
+    
+    }
+    
